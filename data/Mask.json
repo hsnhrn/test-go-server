@@ -1,0 +1,5 @@
+{"FRev":0,"Data":[
+{"MaskID":25,"MaskSubID":0,"Mask_Min":1,"Mask_Max":0.1,"AnzFaktor":0.1,"Step":0.1},
+{"MaskID":25,"MaskSubID":1,"Mask_Min":2,"Mask_Max":0.7,"AnzFaktor":0.2,"Step":0.2},
+{"MaskID":26,"MaskSubID":0,"Mask_Min":2,"Mask_Max":0.7,"AnzFaktor":0.2,"Step":0.2}
+]}
